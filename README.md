@@ -50,3 +50,8 @@ Printer driver for **(Konica) Minolta PagePro 1[234]xxW**
 
 A printer driver for the (Konica) Minolta PagePro 1200W, 1250W, 1300W, 1350W, and 1400W.
 
+### cjet
+
+Printer driver for **Canon Bubble Jet printers**
+
+A printer driver for Canon Bubble Jet printers using the CJet printer language.
