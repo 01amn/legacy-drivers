@@ -50,3 +50,13 @@ Printer driver for **(Konica) Minolta PagePro 1[234]xxW**
 
 A printer driver for the (Konica) Minolta PagePro 1200W, 1250W, 1300W, 1350W, and 1400W.
 
+### cjet
+
+Printer driver for **Canon CaPSL level III+ laser printers**
+
+**Version:** 0.8.9
+
+Filter to convert HP PCL (Printer Command Language) output to Canon CaPSL (Canon Printing Systems Language). Cjet emulates an HP LaserJet II and supports selected PCL features from later LaserJet models, including downloadable fonts and PCL raster compression modes 1, 2, and 3.
+
+The driver requires a Canon laser printer supporting CaPSL level III or higher.
+
